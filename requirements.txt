@@ -1,1 +1,2 @@
 flower-new
+redis==2.10.3
